@@ -9,8 +9,8 @@ module.exports = {
 		function randomColor() { return Math.floor(Math.random() * 16777215); }
 
 
-		let firstY = '528275244570640445';
-		let secondY = '528275333129175070';
+		let firstY = 'YOUR ROLE ID';
+		let secondY = 'YOUR ROLE ID';
 		const emo = ['1️⃣', '2️⃣'];
 		let userAvatar = message.author.displayAvatarURL();
 		let emb = {
